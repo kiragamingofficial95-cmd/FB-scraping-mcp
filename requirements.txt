@@ -1,0 +1,2 @@
+# Zero external dependencies required!
+# Runs out-of-the-box on standard Python 3.10+
